@@ -1,0 +1,52 @@
+- area: Basement
+  background: AJCourt
+  bglock: true
+  evidence_mod: FFA
+  iniswap_allowed: true
+- area: Courtroom 1
+  background: AJCourt
+  bglock: false
+  evidence_mod: FFA
+  locking_allowed: true
+  iniswap_allowed: true
+- area: Testing Room 1
+  background: AJCourt
+  bglock: false
+  evidence_mod: FFA
+  locking_allowed: true
+  iniswap_allowed: true
+- area: Testing Room 2
+  background: AJCourt
+  bglock: false
+  evidence_mod: FFA
+  locking_allowed: true
+  iniswap_allowed: true
+- area: Testing Room 3
+  background: AJCourt
+  bglock: false
+  evidence_mod: FFA
+  locking_allowed: true
+  iniswap_allowed: true
+- area: Testing Room 4
+  background: AJCourt
+  bglock: false
+  evidence_mod: FFA
+  locking_allowed: true
+  iniswap_allowed: true
+- area: Testing Room 5
+  background: AJCourt
+  bglock: false
+  evidence_mod: FFA
+  locking_allowed: true
+  iniswap_allowed: true 
+
+
+# Default options
+## evidence_mod: FFA
+## locking_allowed: false
+## iniswap_allowed: true
+## showname_changes_allowed: true
+## shouts_allowed: true
+## jukebox: false
+## noninterrupting_pres: false
+## abbreviation: self.abbreviate(area)
