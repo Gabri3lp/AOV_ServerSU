@@ -12,7 +12,7 @@ hostname: <dollar>H
 playerlimit: 100
 
 # Port to listen on. You should forward this port on your router.
-port: 4200
+port: 8080
 
 # Whether or not this server can only be accessed by the local machine it is
 # being hosted on.
