@@ -42,7 +42,7 @@ use_websockets: true
 websocket_port: 27017
 
 # Whether or not the server should be advertised on the server list.
-use_masterserver: true
+use_masterserver: false
 # Don't change these unless the master server is no more
 masterserver_ip: master.aceattorneyonline.com
 masterserver_port: 27016
